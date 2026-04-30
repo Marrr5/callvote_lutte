@@ -1,3 +1,4 @@
+#!/usr/bin/php
 <?php
 $candidat = $argv[1];
 $telephone = $argv[2];
