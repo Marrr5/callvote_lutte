@@ -1,4 +1,5 @@
 candidat	voix
+6001	1
 bombardier	9
 yekini	12
-Dernière mise à jour: 10:17:25
+Dernière mise à jour: 11:49:36
